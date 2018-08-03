@@ -1,1 +1,1 @@
-# studio-a.github.io
+# studio-a
